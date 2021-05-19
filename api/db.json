@@ -1,0 +1,35 @@
+{
+  "streams": [
+    {
+      "title": "MyStsream",
+      "description": "This is my stream",
+      "id": 1
+    },
+    {
+      "title": "OtherStream",
+      "description": "This is other stream",
+      "id": 2
+    },
+    {
+      "title": "OtherStream",
+      "description": "This is my other stream",
+      "id": 3
+    },
+    {
+      "title": "Otherstream",
+      "description": "This is my other stream",
+      "id": 4
+    },
+    {
+      "title": "I created this stream",
+      "description": "This was created by me!",
+      "userId": "108265783020315258330",
+      "id": 5
+    },
+    {
+      "title": "MyresuseStream",
+      "description": "This is my resuteed stream",
+      "id": 7
+    }
+  ]
+}
